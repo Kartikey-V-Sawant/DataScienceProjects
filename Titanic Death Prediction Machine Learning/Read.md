@@ -1,4 +1,5 @@
-###### Titanic Death and Survival Prediction Machine Learning  Model 
+# Titanic Death and Survival Prediction Machine Learning  Model
+
 ___________________________________________________________________________________________________________________________
 Which predicts the passenger with passenger id is alive or dead. In this model i have trained the data train.csv file 
 using Random Forest Classifier.For Testing i have used the test.csv file to test the model.Then i have stored the predictions 
