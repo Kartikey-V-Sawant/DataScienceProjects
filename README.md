@@ -1,7 +1,6 @@
 
 # Online Data Science and Machine learning Project Submission.
-Here i will be uploading all my projects that i have uploaded and participated
-in kaggle competitions.
+Here i will be uploading all my projects that i have completed in  kaggle competitions.
 
 
 # 1.Titanic Death and Survival Prediction Machine Learning Model.
