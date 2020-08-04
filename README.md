@@ -1,5 +1,5 @@
 
-# Online Data Science and Machine learning Submission.
+# Online Data Science and Machine learning Project Submission.
 Here i will be uploading all my projects that i have uploaded and participated
 in kaggle competitions.
 
